@@ -1,0 +1,62 @@
+1713168987623	geckodriver	INFO	Listening on 127.0.0.1:50975
+1713168990735	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50976" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofileNfg60C"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1713168991498	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713168991640	Marionette	INFO	Listening on port 50985
+Read port: 50985
+WebDriver BiDi listening on ws://127.0.0.1:50976
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1713168991735	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:50976/devtools/browser/9867cd34-2e37-4ada-90c9-ec01e8d00f1a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://yopmail.com."
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 156: Script terminated by timeout at:
+Ai/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:156:286
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:424
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:899
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:899
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:84:833
+n.Ei@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:86:1929
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:899
+Ai/c/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:156:320
+Va@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:47:339
+Sa.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:47:127
+Ua@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:466
+Ai/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:156:292
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:424
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:899
+Ah/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:139:516
+Ra.prototype.bc/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:298
+Ah/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:139:525
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:424
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:899
+Ah/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:139:516
+Ra.prototype.bc/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:298
+Ah/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:139:525
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:424
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:899
+Xd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:98:672
+
+1713169001382	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L0LConaBzCc577BZGNgzP3bg87fF5vhB9-a07M4Tw6o.js line 2 > eval line 6031 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L0LConaBzCc577BZGNgzP3bg87fF5vhB9-a07M4Tw6o.js line 2 > eval line 5866 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L0LConaBzCc577BZGNgzP3bg87fF5vhB9-a07M4Tw6o.js line 2 > eval line 2700 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202404100101/slotcar_library_fy2021.js?bust=31082672, line 127: Script terminated by timeout at:
+ri/<@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202404100101/slotcar_library_fy2021.js?bust=31082672:127:389
+Ad/</<@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202404100101/slotcar_library_fy2021.js?bust=31082672:33:292
+zd@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202404100101/slotcar_library_fy2021.js?bust=31082672:33:92
+Ad/<@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202404100101/slotcar_library_fy2021.js?bust=31082672:33:281
+
+1713169005746	Marionette	INFO	Stopped listening on port 50985
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.

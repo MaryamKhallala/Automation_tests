@@ -1,0 +1,24 @@
+1711967348089	geckodriver	INFO	Listening on 127.0.0.1:62612
+1711967351135	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62613" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofileUI1CrD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1711967351659	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711967351789	Marionette	INFO	Listening on port 62631
+WebDriver BiDi listening on ws://127.0.0.1:62613
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Read port: 62631
+1711967352034	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:62613/devtools/browser/a7e85002-efeb-4b3a-9cb1-d82542ce2be0
+1711967381866	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://diac--preprod.sandbox.my.site.com/beb2b/s/sfsites/auraFW/javascript/VXZJYkJtTFAtX2RjOGFiVmZaelpqQTk4bkk0bVJhZGJCWE9mUC1IZXZRbmcyNDguMTAuNS01LjAuMTA/aura_prod.js, line 29: Script terminated by timeout at:
+_n@https://diac--preprod.sandbox.my.site.com/beb2b/s/sfsites/auraFW/javascript/VXZJYkJtTFAtX2RjOGFiVmZaelpqQTk4bkk0bVJhZGJCWE9mUC1IZXZRbmcyNDguMTAuNS01LjAuMTA/aura_prod.js:29:5552
+value@https://diac--preprod.sandbox.my.site.com/beb2b/s/sfsites/auraFW/javascript/VXZJYkJtTFAtX2RjOGFiVmZaelpqQTk4bkk0bVJhZGJCWE9mUC1IZXZRbmcyNDguMTAuNS01LjAuMTA/aura_prod.js:47:6772
+n@https://diac--preprod.sandbox.my.site.com/components/o11y/web_vitals.js:1:743
+t@https://diac--preprod.sandbox.my.site.com/beb2b/s/sfsites/auraFW/javascript/VXZJYkJtTFAtX2RjOGFiVmZaelpqQTk4bkk0bVJhZGJCWE9mUC1IZXZRbmcyNDguMTAuNS01LjAuMTA/aura_prod.js:29:5722
+
+1711967672120	Marionette	INFO	Stopped listening on port 62631
+Dynamically enable window occlusion 1

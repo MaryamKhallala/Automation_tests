@@ -1,0 +1,21 @@
+1713172976751	geckodriver	INFO	Listening on 127.0.0.1:58712
+1713172979857	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58713" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofilegHA9cJ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1713172980524	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713172980675	Marionette	INFO	Listening on port 58723
+WebDriver BiDi listening on ws://127.0.0.1:58713
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Read port: 58723
+1713172980918	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:58713/devtools/browser/dfd94ac8-a7be-4d50-bbf9-0d76a33b52f3
+1713173011866	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://diac--preprod.sandbox.my.site.com/lub2b/s/sfsites/auraFW/javascript/ZDROWDdLOGtXcTZqSWZiU19ZaDJFdzk4bkk0bVJhZGJCWE9mUC1IZXZRbmcyNDguMTAuNS01LjAuMTA/aura_prod.js, line 29: Script terminated by timeout at:
+t@https://diac--preprod.sandbox.my.site.com/lub2b/s/sfsites/auraFW/javascript/ZDROWDdLOGtXcTZqSWZiU19ZaDJFdzk4bkk0bVJhZGJCWE9mUC1IZXZRbmcyNDguMTAuNS01LjAuMTA/aura_prod.js:29:5668
+
+1713173060402	Marionette	INFO	Stopped listening on port 58723
+Dynamically enable window occlusion 1

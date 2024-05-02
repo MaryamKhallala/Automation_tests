@@ -1,0 +1,25 @@
+1712072149069	geckodriver	INFO	Listening on 127.0.0.1:62023
+1712072152146	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62024" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofileYgIlq3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712072152706	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712072152851	Marionette	INFO	Listening on port 62047
+Read port: 62047
+WebDriver BiDi listening on ws://127.0.0.1:62024
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712072152939	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:62024/devtools/browser/634f7330-6b7c-4152-8da5-d7f5f5bb29c6
+1712072182884	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\MARYAM~1.KHA\AppData\Local\Temp\rust_mozprofileYgIlq3\bookmarkbackups\bookmarks-2024-04-02_11_6PbaNgA0d1oT-o84HxlK8g==.jsonlz4) because it does not exist
+JavaScript warning: https://diac--preprod.sandbox.my.site.com/beb2b/s/sfsites/auraFW/javascript/ZDROWDdLOGtXcTZqSWZiU19ZaDJFdzk4bkk0bVJhZGJCWE9mUC1IZXZRbmcyNDguMTAuNS01LjAuMTA/aura_prod.js line 319 > eval, line 1: Script terminated by timeout at:
+p/<@https://diac--preprod.sandbox.my.site.com/components/o11y/web_vitals.js:1:1228
+n@https://diac--preprod.sandbox.my.site.com/components/o11y/web_vitals.js:1:734
+t@https://diac--preprod.sandbox.my.site.com/beb2b/s/sfsites/auraFW/javascript/ZDROWDdLOGtXcTZqSWZiU19ZaDJFdzk4bkk0bVJhZGJCWE9mUC1IZXZRbmcyNDguMTAuNS01LjAuMTA/aura_prod.js:29:5722
+
+1712133437210	Marionette	INFO	Stopped listening on port 62047
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function

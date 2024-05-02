@@ -1,0 +1,23 @@
+1712862008496	geckodriver	INFO	Listening on 127.0.0.1:58387
+1712862011628	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58388" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofileMSx4uI"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712862012159	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712862012301	Marionette	INFO	Listening on port 58397
+WebDriver BiDi listening on ws://127.0.0.1:58388
+Read port: 58397
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712862012533	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:58388/devtools/browser/1852bd1b-1445-4306-aaf4-973411a46edc
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202404080101/slotcar_library_fy2021.js?bust=31082630, line 127: Script terminated by timeout at:
+ri/<@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202404080101/slotcar_library_fy2021.js?bust=31082630:127:389
+Ad/</<@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202404080101/slotcar_library_fy2021.js?bust=31082630:33:292
+zd@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202404080101/slotcar_library_fy2021.js?bust=31082630:33:92
+Ad/<@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202404080101/slotcar_library_fy2021.js?bust=31082630:33:281
+
+1712862031566	Marionette	INFO	Stopped listening on port 58397
+Dynamically enable window occlusion 1

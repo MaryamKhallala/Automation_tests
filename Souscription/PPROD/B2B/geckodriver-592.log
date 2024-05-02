@@ -1,0 +1,42 @@
+1712923799098	geckodriver	INFO	Listening on 127.0.0.1:62032
+1712923802223	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62033" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofileKXNtNg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712923802928	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712923803082	Marionette	INFO	Listening on port 62043
+WebDriver BiDi listening on ws://127.0.0.1:62033
+Read port: 62043
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712923803370	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:62033/devtools/browser/b519b018-1a7f-47cd-9a2d-cd37232284e5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://yopmail.com."
+1712923812033	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1712923815362	Marionette	INFO	Stopped listening on port 62043
+JavaScript warning: https://pagead2.googlesyndication.com/bg/9ZfChOpXbHBNFJKz_5-oXUVoR1FZPZjvM4uQ47JL5hk.js line 2 > eval, line 4773: Script terminated by timeout at:
+nU/r.ZK<@https://pagead2.googlesyndication.com/bg/9ZfChOpXbHBNFJKz_5-oXUVoR1FZPZjvM4uQ47JL5hk.js line 2 > eval:4773:31549
+mk@https://pagead2.googlesyndication.com/bg/9ZfChOpXbHBNFJKz_5-oXUVoR1FZPZjvM4uQ47JL5hk.js line 2 > eval:4773:33212
+A.j</<@https://pagead2.googlesyndication.com/bg/9ZfChOpXbHBNFJKz_5-oXUVoR1FZPZjvM4uQ47JL5hk.js line 2 > eval:4773:50661
+eV@https://pagead2.googlesyndication.com/bg/9ZfChOpXbHBNFJKz_5-oXUVoR1FZPZjvM4uQ47JL5hk.js line 2 > eval:4773:34386
+D0@https://pagead2.googlesyndication.com/bg/9ZfChOpXbHBNFJKz_5-oXUVoR1FZPZjvM4uQ47JL5hk.js line 2 > eval:4773:2368
+d@https://pagead2.googlesyndication.com/bg/9ZfChOpXbHBNFJKz_5-oXUVoR1FZPZjvM4uQ47JL5hk.js line 2 > eval:4773:889
+nU@https://pagead2.googlesyndication.com/bg/9ZfChOpXbHBNFJKz_5-oXUVoR1FZPZjvM4uQ47JL5hk.js line 2 > eval:4773:26608
+V@https://pagead2.googlesyndication.com/bg/9ZfChOpXbHBNFJKz_5-oXUVoR1FZPZjvM4uQ47JL5hk.js line 2 > eval:4773:20528
+MJ.Pwj_@https://pagead2.googlesyndication.com/bg/9ZfChOpXbHBNFJKz_5-oXUVoR1FZPZjvM4uQ47JL5hk.js line 2 > eval:4773:51604
+CU@https://pagead2.googlesyndication.com/bg/9ZfChOpXbHBNFJKz_5-oXUVoR1FZPZjvM4uQ47JL5hk.js line 2 > eval:4773:17813
+w2@https://pagead2.googlesyndication.com/bg/9ZfChOpXbHBNFJKz_5-oXUVoR1FZPZjvM4uQ47JL5hk.js line 2 > eval:4773:20116
+D0@https://pagead2.googlesyndication.com/bg/9ZfChOpXbHBNFJKz_5-oXUVoR1FZPZjvM4uQ47JL5hk.js line 2 > eval:4773:2667
+YR@https://pagead2.googlesyndication.com/bg/9ZfChOpXbHBNFJKz_5-oXUVoR1FZPZjvM4uQ47JL5hk.js line 2 > eval:4773:19994
+za/<@https://pagead2.googlesyndication.com/pagead/ads?ltd_cs=1&client=ca-pub-5609129721109980&output=html&h=600&slotname=3376403308&adk=23981695&adf=846764848&pi=t.ma~as.3376403308&w=300&abgtt=6&lmt=1712923816&rafmt=12&format=300x600&url=https%3A%2F%2Fyopmail.com%2Ffr%2Fnomail&fwrattr=false&wgl=1&dt=1712923812465&bpp=2&bdt=103&idt=219&shv=r20240410&mjsv=m202404090201&ptt=9&saldr=aa&eoidce=1&prev_fmts=0x0&nras=1&correlator=860389863672&frm=21&ife=1&pv=1&ga_vid=1094774508.1712923813&ga_sid=1712923813&ga_hid=361377164&ga_fc=0&nhd=1&u_tz=0&u_his=2&u_h=720&u_w=1280&u_ah=672&u_aw=1280&u_cd=24&u_sd=1.5&adx=908&ady=161&biw=1280&bih=587&isw=926&ish=431&ifk=240403836&scr_x=0&scr_y=0&eid=44759875%2C44759926%2C44759837%2C31082652%2C95329017%2C95329437%2C31082657%2C95320377%2C31081718%2C31082144&oid=2&pvsid=2337633137593442&tmod=1184267246&uas=0&nvt=1&ref=https%3A%2F%2Fyopmail.com%2Ffr%2F&top=https%3A%2F%2Fyopmail.com%2Ffr%2Fwm&fc=1920&brdim=-7%2C-7%2C-7%2C-7%2C1280%2C0%2C1295%2C687%2C926%2C431&vis=1&rsz=%7C%7CeE%7C&abl=CS&pfx=0&fu=260&bc=31&bz=1.01&ifi=2&uci=2.mkcgahd4jw7c&fsb=1&dtd=225:1:56287
+Ea@https://pagead2.googlesyndication.com/pagead/ads?ltd_cs=1&client=ca-pub-5609129721109980&output=html&h=600&slotname=3376403308&adk=23981695&adf=846764848&pi=t.ma~as.3376403308&w=300&abgtt=6&lmt=1712923816&rafmt=12&format=300x600&url=https%3A%2F%2Fyopmail.com%2Ffr%2Fnomail&fwrattr=false&wgl=1&dt=1712923812465&bpp=2&bdt=103&idt=219&shv=r20240410&mjsv=m202404090201&ptt=9&saldr=aa&eoidce=1&prev_fmts=0x0&nras=1&correlator=860389863672&frm=21&ife=1&pv=1&ga_vid=1094774508.1712923813&ga_sid=1712923813&ga_hid=361377164&ga_fc=0&nhd=1&u_tz=0&u_his=2&u_h=720&u_w=1280&u_ah=672&u_aw=1280&u_cd=24&u_sd=1.5&adx=908&ady=161&biw=1280&bih=587&isw=926&ish=431&ifk=240403836&scr_x=0&scr_y=0&eid=44759875%2C44759926%2C44759837%2C31082652%2C95329017%2C95329437%2C31082657%2C95320377%2C31081718%2C31082144&oid=2&pvsid=2337633137593442&tmod=1184267246&uas=0&nvt=1&ref=https%3A%2F%2Fyopmail.com%2Ffr%2F&top=https%3A%2F%2Fyopmail.com%2Ffr%2Fwm&fc=1920&brdim=-7%2C-7%2C-7%2C-7%2C1280%2C0%2C1295%2C687%2C926%2C431&vis=1&rsz=%7C%7CeE%7C&abl=CS&pfx=0&fu=260&bc=31&bz=1.01&ifi=2&uci=2.mkcgahd4jw7c&fsb=1&dtd=225:1:56468
+za@https://pagead2.googlesyndication.com/pagead/ads?ltd_cs=1&client=ca-pub-5609129721109980&output=html&h=600&slotname=3376403308&adk=23981695&adf=846764848&pi=t.ma~as.3376403308&w=300&abgtt=6&lmt=1712923816&rafmt=12&format=300x600&url=https%3A%2F%2Fyopmail.com%2Ffr%2Fnomail&fwrattr=false&wgl=1&dt=1712923812465&bpp=2&bdt=103&idt=219&shv=r20240410&mjsv=m202404090201&ptt=9&saldr=aa&eoidce=1&prev_fmts=0x0&nras=1&correlator=860389863672&frm=21&ife=1&pv=1&ga_vid=1094774508.1712923813&ga_sid=1712923813&ga_hid=361377164&ga_fc=0&nhd=1&u_tz=0&u_his=2&u_h=720&u_w=1280&u_ah=672&u_aw=1280&u_cd=24&u_sd=1.5&adx=908&ady=161&biw=1280&bih=587&isw=926&ish=431&ifk=240403836&scr_x=0&scr_y=0&eid=44759875%2C44759926%2C44759837%2C31082652%2C95329017%2C95329437%2C31082657%2C95320377%2C31081718%2C31082144&oid=2&pvsid=2337633137593442&tmod=1184267246&uas=0&nvt=1&ref=https%3A%2F%2Fyopmail.com%2Ffr%2F&top=https%3A%2F%2Fyopmail.com%2Ffr%2Fwm&fc=1920&brdim=-7%2C-7%2C-7%2C-7%2C1280%2C0%2C1295%2C687%2C926%2C431&vis=1&rsz=%7C%7CeE%7C&abl=CS&pfx=0&fu=260&bc=31&bz=1.01&ifi=2&uci=2.mkcgahd4jw7c&fsb=1&dtd=225:1:56277
+
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202404090201/show_ads_impl_fy2021.js?bust=31082657, line 548: Script terminated by timeout at:
+ZO/<@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202404090201/show_ads_impl_fy2021.js?bust=31082657:548:94
+
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.

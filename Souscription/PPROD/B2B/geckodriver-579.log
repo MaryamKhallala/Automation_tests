@@ -1,0 +1,28 @@
+1712869120283	geckodriver	INFO	Listening on 127.0.0.1:64454
+1712869123383	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64455" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofileVpCtD2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712869124283	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712869124468	Marionette	INFO	Listening on port 64462
+WebDriver BiDi listening on ws://127.0.0.1:64455
+Read port: 64462
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712869124777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:64455/devtools/browser/7e391d1f-8dd2-4558-b960-88e29dda1bd6
+1712869154335	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/shared/FormStateManager.sys.mjs, line 38: TypeError: this._activeItems is null
+JavaScript error: resource://gre/modules/shared/FormStateManager.sys.mjs, line 38: TypeError: this._activeItems is null
+JavaScript error: resource://gre/modules/shared/FormStateManager.sys.mjs, line 38: TypeError: this._activeItems is null
+JavaScript error: resource://gre/modules/shared/FormStateManager.sys.mjs, line 38: TypeError: this._activeItems is null
+JavaScript error: resource://gre/modules/shared/FormStateManager.sys.mjs, line 38: TypeError: this._activeItems is null
+JavaScript error: resource://gre/modules/shared/FormStateManager.sys.mjs, line 38: TypeError: this._activeItems is null
+JavaScript error: resource://gre/modules/shared/FormStateManager.sys.mjs, line 38: TypeError: this._activeItems is null
+JavaScript error: resource://gre/modules/shared/FormStateManager.sys.mjs, line 38: TypeError: this._activeItems is null
+1712921420447	Marionette	INFO	Stopped listening on port 64462
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function

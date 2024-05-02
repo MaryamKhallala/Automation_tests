@@ -1,0 +1,23 @@
+1712861971161	geckodriver	INFO	Listening on 127.0.0.1:58275
+1712861974208	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58276" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofileeBCHiB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712861974902	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712861975070	Marionette	INFO	Listening on port 58286
+WebDriver BiDi listening on ws://127.0.0.1:58276
+Read port: 58286
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712861975350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:58276/devtools/browser/409086d8-243e-4871-af04-1bc9e1f60df6
+JavaScript warning: https://diac--preprod.sandbox.my.site.com/beb2b/s/sfsites/auraFW/javascript/ZDROWDdLOGtXcTZqSWZiU19ZaDJFdzk4bkk0bVJhZGJCWE9mUC1IZXZRbmcyNDguMTAuNS01LjAuMTA/aura_prod.js line 319 > eval, line 1: Script terminated by timeout at:
+n@https://diac--preprod.sandbox.my.site.com/components/o11y/web_vitals.js:1:743
+t@https://diac--preprod.sandbox.my.site.com/beb2b/s/sfsites/auraFW/javascript/ZDROWDdLOGtXcTZqSWZiU19ZaDJFdzk4bkk0bVJhZGJCWE9mUC1IZXZRbmcyNDguMTAuNS01LjAuMTA/aura_prod.js:29:5722
+
+1712861997540	Marionette	INFO	Stopped listening on port 58286
+Dynamically enable window occlusion 1
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=[GFX1-]: CompositAbnormalShutdown
+orBridgeChild receives IPC close with reason=AbnormalShutdown

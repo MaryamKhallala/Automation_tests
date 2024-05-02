@@ -1,0 +1,35 @@
+1712924881689	geckodriver	INFO	Listening on 127.0.0.1:65302
+1712924884757	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65303" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofilebnruKT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712924885346	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712924885496	Marionette	INFO	Listening on port 65318
+WebDriver BiDi listening on ws://127.0.0.1:65303
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Read port: 65318
+1712924885763	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:65303/devtools/browser/8cf1b0f6-bea9-4a1a-acba-1a4e3374fee6
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L0LConaBzCc577BZGNgzP3bg87fF5vhB9-a07M4Tw6o.js line 2 > eval line 7192 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://yopmail.com/ver/9.2/webmail.js, line 1: TypeError: Gelt(...) is undefined
+JavaScript error: chrome://browser/content/preferences/moreFromMozilla.js, line 83: TypeError: Region.home is null
+1712924915382	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+WARNING: content window passed to PrivateBrowsingUtils.isWindowPrivate. Use isContentWindowPrivate instead (but only for frame scripts).
+pbu_isWindowPrivate@resource://gre/modules/PrivateBrowsingUtils.sys.mjs:23:11
+getTargetWindow@resource:///modules/URILoadingHelper.sys.mjs:654:57
+openLinkIn@resource:///modules/URILoadingHelper.sys.mjs:476:16
+openTrustedLinkIn@resource:///modules/URILoadingHelper.sys.mjs:727:10
+openTrustedLinkIn@chrome://browser/content/utilityOverlay.js:122:20
+handleEvent@chrome://global/content/elements/moz-support-link.mjs:80:26
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202404090101/slotcar_library_fy2021.js?bust=31082631, line 127: Script terminated by timeout at:
+ri/<@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202404090101/slotcar_library_fy2021.js?bust=31082631:127:389
+Ad/</<@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202404090101/slotcar_library_fy2021.js?bust=31082631:33:292
+zd@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202404090101/slotcar_library_fy2021.js?bust=31082631:33:92
+Ad/<@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202404090101/slotcar_library_fy2021.js?bust=31082631:33:281
+
+1712925045391	Marionette	INFO	Stopped listening on port 65318
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function

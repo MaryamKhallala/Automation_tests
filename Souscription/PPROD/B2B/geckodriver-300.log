@@ -1,0 +1,35 @@
+1712240924301	geckodriver	INFO	Listening on 127.0.0.1:57215
+1712240927376	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57216" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofile50VQC4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712240928096	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712240928225	Marionette	INFO	Listening on port 57225
+WebDriver BiDi listening on ws://127.0.0.1:57216
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Read port: 57225
+1712240928455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:57216/devtools/browser/f5d7f0ae-a3a2-421e-8b51-b498873d982a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://yopmail.com."
+1712240935429	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/8IdVU_5hiTnoSVFpifzETCOPuU7V9vAnpxqXHqRkotI.js line 2 > eval line 2422 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1712240937546	Marionette	INFO	Stopped listening on port 57225
+JavaScript warning: https://pagead2.googlesyndication.com/bg/8IdVU_5hiTnoSVFpifzETCOPuU7V9vAnpxqXHqRkotI.js line 2 > eval line 5511 > eval line 1 > eval line 1 > eval, line 1: Script terminated by timeout at:
+b@https://pagead2.googlesyndication.com/bg/8IdVU_5hiTnoSVFpifzETCOPuU7V9vAnpxqXHqRkotI.js line 2 > eval line 5511 > eval line 1 > eval line 1 > eval:1:53
+z$@https://pagead2.googlesyndication.com/bg/8IdVU_5hiTnoSVFpifzETCOPuU7V9vAnpxqXHqRkotI.js line 2 > eval:5511:26587
+Al@https://pagead2.googlesyndication.com/bg/8IdVU_5hiTnoSVFpifzETCOPuU7V9vAnpxqXHqRkotI.js line 2 > eval:5511:14018
+@https://pagead2.googlesyndication.com/bg/8IdVU_5hiTnoSVFpifzETCOPuU7V9vAnpxqXHqRkotI.js line 2 > eval:5511:38542
+Vv@https://pagead2.googlesyndication.com/bg/8IdVU_5hiTnoSVFpifzETCOPuU7V9vAnpxqXHqRkotI.js line 2 > eval:5511:25704
+v@https://pagead2.googlesyndication.com/bg/8IdVU_5hiTnoSVFpifzETCOPuU7V9vAnpxqXHqRkotI.js line 2 > eval:5511:7086
+v@https://pagead2.googlesyndication.com/bg/8IdVU_5hiTnoSVFpifzETCOPuU7V9vAnpxqXHqRkotI.js line 2 > eval:5511:7456
+v/<@https://pagead2.googlesyndication.com/bg/8IdVU_5hiTnoSVFpifzETCOPuU7V9vAnpxqXHqRkotI.js line 2 > eval:5511:7150
+zV</<@https://pagead2.googlesyndication.com/bg/8IdVU_5hiTnoSVFpifzETCOPuU7V9vAnpxqXHqRkotI.js line 2 > eval:5511:35903
+
+JavaScript warning: https://fundingchoicesmessages.google.com/f/AGSKWxXAsiaWiAx3zXL8EWElpy20stSJdA0gN8fkW12QzL4s_rSysF7k7jZRA6ntyiY900sCVf03EwDBAND6sxNwKQyNLvYFp1vzev7pywAT3x77oAW4nJs0VAum2GNGd4aTCJ3INeoX-Q==?fccs=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLFsxNzEyMjQwOTM2LDkwMzAwMDAwMF0sbnVsbCxudWxsLG51bGwsW251bGwsWzddXSwiaHR0cHM6Ly95b3BtYWlsLmNvbS9mci93bSIsbnVsbCxbWzgsIkJTYVNfdFh0eF9rIl0sWzksImZyIl0sWzE4LCJbW1swXV1dIl0sWzIwLCJbbnVsbCxudWxsLFszMTA4MjE0Nl0sMTQsM10iXSxbMTksIjIiXV1d, line 7: Script terminated by timeout at:
+no@/_/mss/boq-content-ads-contributor/_/js/k=boq-content-ads-contributor.ContributorServingResponseClientJs.fr.BSaS_tXtx_k.es5.O/d=1/exm=kernel_loader,loader_js_executable/ed=1/rs=AJlcJMyQzXJWqppOjH015wORXBvK68i6NQ/m=ad_blocking_detection_executable:7:1514
+no/<@/_/mss/boq-content-ads-contributor/_/js/k=boq-content-ads-contributor.ContributorServingResponseClientJs.fr.BSaS_tXtx_k.es5.O/d=1/exm=kernel_loader,loader_js_executable/ed=1/rs=AJlcJMyQzXJWqppOjH015wORXBvK68i6NQ/m=ad_blocking_detection_executable:7:1630
+
+Dynamically enable window occlusion 1

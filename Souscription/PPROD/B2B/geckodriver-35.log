@@ -1,0 +1,34 @@
+1711968765595	geckodriver	INFO	Listening on 127.0.0.1:64818
+1711968768682	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64819" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofilev9uZPv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1711968769343	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711968769477	Marionette	INFO	Listening on port 64834
+WebDriver BiDi listening on ws://127.0.0.1:64819
+Read port: 64834
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1711968769680	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:64819/devtools/browser/ea51ca2d-8c0c-4dc7-a089-938b3dc3f8ad
+JavaScript warning: https://pagead2.googlesyndication.com/bg/_nAbcfTAjAlfxyUVVFJ_Mezhp7rRLhXiqJWne0K3X08.js line 2 > eval line 687 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://yopmail.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1711968778061	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/8IdVU_5hiTnoSVFpifzETCOPuU7V9vAnpxqXHqRkotI.js line 2 > eval line 5570 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/8IdVU_5hiTnoSVFpifzETCOPuU7V9vAnpxqXHqRkotI.js line 2 > eval line 2955 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/8IdVU_5hiTnoSVFpifzETCOPuU7V9vAnpxqXHqRkotI.js line 2 > eval line 4386 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/_nAbcfTAjAlfxyUVVFJ_Mezhp7rRLhXiqJWne0K3X08.js line 2 > eval line 6305 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1711968801049	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202403250101/slotcar_library_fy2021.js?bust=31082282, line 126: Script terminated by timeout at:
+qi/<@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202403250101/slotcar_library_fy2021.js?bust=31082282:126:389
+zd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202403250101/slotcar_library_fy2021.js?bust=31082282:33:292
+yd@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202403250101/slotcar_library_fy2021.js?bust=31082282:33:92
+zd/<@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202403250101/slotcar_library_fy2021.js?bust=31082282:33:281
+
+1711968824315	Marionette	INFO	Stopped listening on port 64834
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.

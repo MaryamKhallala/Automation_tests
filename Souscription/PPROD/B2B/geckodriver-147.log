@@ -1,0 +1,18 @@
+1712135441562	geckodriver	INFO	Listening on 127.0.0.1:56622
+1712135444687	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56623" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofile7vToe8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712135445309	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712135445454	Marionette	INFO	Listening on port 56647
+WebDriver BiDi listening on ws://127.0.0.1:56623
+Read port: 56647
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712135445688	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:56623/devtools/browser/1ff5c285-1457-4986-aff8-40de64608c3f
+1712135460672	Marionette	INFO	Stopped listening on port 56647
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function

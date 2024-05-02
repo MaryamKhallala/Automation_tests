@@ -1,0 +1,58 @@
+1713047799975	geckodriver	INFO	Listening on 127.0.0.1:59215
+1713047803106	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59216" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofilegqLkKN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1713047804690	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713047804942	Marionette	INFO	Listening on port 59238
+WebDriver BiDi listening on ws://127.0.0.1:59216
+Read port: 59238
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1713047805272	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:59216/devtools/browser/26a7b726-0d0a-4a2a-a95d-f77d300f527b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://yopmail.com."
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 79: Script terminated by timeout at:
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:882
+yf.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:111:248
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:899
+sd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:698
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:899
+sd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:698
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:899
+sd.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:698
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:899
+rg.prototype.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:119:115
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:899
+Ai/c/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:156:320
+Va@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:47:339
+Sa.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:47:127
+Ua@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:466
+Ai/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:156:292
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:424
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:899
+Ah/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:139:516
+Ra.prototype.bc/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:298
+Ah/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:139:525
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:424
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:899
+Ah/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:139:516
+Ra.prototype.bc/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:298
+Ah/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:139:525
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:81:424
+n.s@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:80:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:899
+Xd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:98:672
+
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1713047814715	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1713047816047	Marionette	INFO	Stopped listening on port 59238
+JavaScript warning: https://yopmail.com/ver/9.2/webmail.js, line 1: Script terminated by timeout at:
+refr/nIId<@https://yopmail.com/ver/9.2/webmail.js:1:10644
+
+Dynamically enable window occlusion 1

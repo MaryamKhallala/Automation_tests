@@ -1,0 +1,47 @@
+1712862457295	geckodriver	INFO	Listening on 127.0.0.1:59735
+1712862460423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59736" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofile5jvz3G"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712862461049	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712862461202	Marionette	INFO	Listening on port 59747
+WebDriver BiDi listening on ws://127.0.0.1:59736
+Read port: 59747
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712862461475	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:59736/devtools/browser/8d94cf6a-853d-4e44-af16-a163724c5d73
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://yopmail.com."
+1712862472459	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L0LConaBzCc577BZGNgzP3bg87fF5vhB9-a07M4Tw6o.js line 2 > eval line 2190 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1712862476159	Marionette	INFO	Stopped listening on port 59747
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L0LConaBzCc577BZGNgzP3bg87fF5vhB9-a07M4Tw6o.js line 2 > eval, line 3337: Script terminated by timeout at:
+Vw@https://pagead2.googlesyndication.com/bg/L0LConaBzCc577BZGNgzP3bg87fF5vhB9-a07M4Tw6o.js line 2 > eval:3337:14257
+iE@https://pagead2.googlesyndication.com/bg/L0LConaBzCc577BZGNgzP3bg87fF5vhB9-a07M4Tw6o.js line 2 > eval:3337:18843
+@https://pagead2.googlesyndication.com/bg/L0LConaBzCc577BZGNgzP3bg87fF5vhB9-a07M4Tw6o.js line 2 > eval:3337:24364
+gb@https://pagead2.googlesyndication.com/bg/L0LConaBzCc577BZGNgzP3bg87fF5vhB9-a07M4Tw6o.js line 2 > eval:3337:16041
+@https://pagead2.googlesyndication.com/bg/L0LConaBzCc577BZGNgzP3bg87fF5vhB9-a07M4Tw6o.js line 2 > eval:3337:37412
+vg@https://pagead2.googlesyndication.com/bg/L0LConaBzCc577BZGNgzP3bg87fF5vhB9-a07M4Tw6o.js line 2 > eval:3337:20023
+mv@https://pagead2.googlesyndication.com/bg/L0LConaBzCc577BZGNgzP3bg87fF5vhB9-a07M4Tw6o.js line 2 > eval:3337:9022
+b@https://pagead2.googlesyndication.com/bg/L0LConaBzCc577BZGNgzP3bg87fF5vhB9-a07M4Tw6o.js line 2 > eval:3337:6066
+v8@https://pagead2.googlesyndication.com/bg/L0LConaBzCc577BZGNgzP3bg87fF5vhB9-a07M4Tw6o.js line 2 > eval:3337:21390
+U@https://pagead2.googlesyndication.com/bg/L0LConaBzCc577BZGNgzP3bg87fF5vhB9-a07M4Tw6o.js line 2 > eval:3337:18737
+@https://pagead2.googlesyndication.com/bg/L0LConaBzCc577BZGNgzP3bg87fF5vhB9-a07M4Tw6o.js line 2 > eval:3337:39676
+bE@https://pagead2.googlesyndication.com/bg/L0LConaBzCc577BZGNgzP3bg87fF5vhB9-a07M4Tw6o.js line 2 > eval:3337:9543
+Kv@https://pagead2.googlesyndication.com/bg/L0LConaBzCc577BZGNgzP3bg87fF5vhB9-a07M4Tw6o.js line 2 > eval:3337:25973
+Q@https://pagead2.googlesyndication.com/bg/L0LConaBzCc577BZGNgzP3bg87fF5vhB9-a07M4Tw6o.js line 2 > eval:3337:4768
+P8@https://pagead2.googlesyndication.com/bg/L0LConaBzCc577BZGNgzP3bg87fF5vhB9-a07M4Tw6o.js line 2 > eval:3337:19572
+va/<@https://tpc.googlesyndication.com/sodar/sodar2/225/runner.html:27:191
+va@https://tpc.googlesyndication.com/sodar/sodar2/225/runner.html:27:129
+ta/d/<@https://tpc.googlesyndication.com/sodar/sodar2/225/runner.html:26:436
+J@https://tpc.googlesyndication.com/sodar/sodar2/225/runner.html:16:39
+ha/this.next@https://tpc.googlesyndication.com/sodar/sodar2/225/runner.html:17:89
+k@https://tpc.googlesyndication.com/sodar/sodar2/225/runner.html:24:287
+
+JavaScript warning: https://tpc.googlesyndication.com/sodar/sodar2.js, line 36: Script terminated by timeout at:
+Ia/</</h.port1.onmessage@https://tpc.googlesyndication.com/sodar/sodar2.js:36:208
+
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.

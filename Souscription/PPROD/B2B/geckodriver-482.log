@@ -1,0 +1,21 @@
+1712657448528	geckodriver	INFO	Listening on 127.0.0.1:58436
+1712657451614	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58437" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofileRBJPo9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712657453113	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712657453361	Marionette	INFO	Listening on port 58451
+WebDriver BiDi listening on ws://127.0.0.1:58437
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Read port: 58451
+1712657453752	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:58437/devtools/browser/c3b9d452-d80a-4846-814d-29ecfa2e64bb
+JavaScript warning: https://pagead2.googlesyndication.com/bg/APV3dACaA-z2K_GiiKi9AtRZMcv8tkt2uQCJ7vSl1g4.js line 2 > eval line 3292 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1712657468899	Marionette	INFO	Stopped listening on port 58451
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.

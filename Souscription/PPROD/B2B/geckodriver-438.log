@@ -1,0 +1,40 @@
+1712524108074	geckodriver	INFO	Listening on 127.0.0.1:55380
+1712524111140	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55381" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofileP791Gc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712524112480	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712524112704	Marionette	INFO	Listening on port 55424
+WebDriver BiDi listening on ws://127.0.0.1:55381
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Read port: 55424
+1712524113102	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:55381/devtools/browser/0e9dd37d-a259-4fd1-8897-58ead4178387
+1712524142936	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://yopmail.com."
+1712524202681	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-5609129721109980&output=html&h=250&slotname=9941875294&adk=3011238240&adf=3874267068&pi=t.ma~as.9941875294&w=289&rafmt=12&format=289x250&url=https%3A%2F%2Fyopmail.com%2Ffr%2Fwm&fwrattr=false&wgl=1&dt=1712524207226&bpp=3&bdt=60&idt=144&shv=r20240403&mjsv=m202404020101&ptt=9&saldr=aa&cookie=ID%3D1c4ae3860eccf15e%3AT%3D1712524160%3ART%3D1712524160%3AS%3DALNI_MY4MIZVWxwvdLqgczoauJUDOkiXCg&gpic=UID%3D00000d597e0e8931%3AT%3D1712524160%3ART%3D1712524160%3AS%3DALNI_Mb2L7lKHhXoeLzFgdDZgUG9y6I6aQ&eo_id_str=ID%3D3881f94d3f38ed9a%3AT%3D1712524160%3ART%3D1712524160%3AS%3DAA-AfjZVmKbp0N7Yt3T69d_hd4oz&prev_fmts=0x0&nras=1&correlator=3729534598387&frm=23&ife=1&pv=1&ga_vid=939982333.1712524207&ga_sid=1712524207&ga_hid=1029582160&ga_fc=0&nhd=1&u_tz=0&u_his=2&u_h=720&u_w=1280&u_ah=672&u_aw=1280&u_cd=24&u_sd=1.5&adx=23&ady=381&biw=1280&bih=587&isw=309&ish=359&ifk=3334326911&scr_x=0&scr_y=0&eid=44759876%2C44759927%2C44759842%2C95326316%2C95329439%2C95329462%2C95329570%2C31082468&oid=2&pvsid=513957200716733&tmod=1533415679&uas=0&nvt=1&ref=https%3A%2F%2Fyopmail.com%2Ffr%2F&fc=1920&brdim=-7%2C-7%2C-7%2C-7%2C1280%2C0%2C1295%2C687%2C309%2C359&vis=1&rsz=%7C%7CEe%7C&abl=CS&pfx=0&fu=260&bc=31&bz=1.01&ifi=2&uci=2.omrvm9qpp7ji&fsb=1&dtd=151, line 1: ReferenceError: mys is not defined
+1712524280452	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: uncaught exception: undefined
+1712524315155	Marionette	INFO	Stopped listening on port 55424
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.warn: services.settings: main/url-classifier-skip-urls sync interrupted by shutdown
+console.warn: services.settings: main/devtools-compatibility-browsers sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/cookie-banner-rules-list getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))

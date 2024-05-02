@@ -1,0 +1,28 @@
+1712230808258	geckodriver	INFO	Listening on 127.0.0.1:55868
+1712230811341	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55869" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofiley5R1TW"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712230812084	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712230812260	Marionette	INFO	Listening on port 55881
+WebDriver BiDi listening on ws://127.0.0.1:55869
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Read port: 55881
+1712230812529	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:55869/devtools/browser/0971ab10-38f9-422f-944f-261e18b2c575
+JavaScript warning: https://pagead2.googlesyndication.com/bg/8IdVU_5hiTnoSVFpifzETCOPuU7V9vAnpxqXHqRkotI.js line 2 > eval line 3571 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/js/rum.js?fcd=true, line 75: Script terminated by timeout at:
+yf@https://pagead2.googlesyndication.com/pagead/js/rum.js?fcd=true:75:265
+uf@https://pagead2.googlesyndication.com/pagead/js/rum.js?fcd=true:78:272
+sf.prototype.F@https://pagead2.googlesyndication.com/pagead/js/rum.js?fcd=true:78:366
+Ce@https://pagead2.googlesyndication.com/pagead/js/rum.js?fcd=true:59:169
+Wg/<@https://pagead2.googlesyndication.com/pagead/js/rum.js?fcd=true:114:277
+sf/this.T@https://pagead2.googlesyndication.com/pagead/js/rum.js?fcd=true:72:307
+
+1712230826040	Marionette	INFO	Stopped listening on port 55881
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.

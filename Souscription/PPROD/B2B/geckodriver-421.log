@@ -1,0 +1,23 @@
+1712330452620	geckodriver	INFO	Listening on 127.0.0.1:64472
+1712330455729	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64473" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofile3SKezt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712330456315	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712330456462	Marionette	INFO	Listening on port 64480
+WebDriver BiDi listening on ws://127.0.0.1:64473
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Read port: 64480
+1712330456735	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:64473/devtools/browser/080592a7-0b79-4d40-9e5a-221b8e50aff6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://yopmail.com."
+1712330464459	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/APV3dACaA-z2K_GiiKi9AtRZMcv8tkt2uQCJ7vSl1g4.js line 2 > eval line 6030 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/APV3dACaA-z2K_GiiKi9AtRZMcv8tkt2uQCJ7vSl1g4.js line 2 > eval line 7534 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1712330468403	Marionette	INFO	Stopped listening on port 64480
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Exiting due to channel error.

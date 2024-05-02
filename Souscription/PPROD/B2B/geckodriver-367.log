@@ -1,0 +1,25 @@
+1712322859675	geckodriver	INFO	Listening on 127.0.0.1:60644
+1712322862768	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60645" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofileRSbXql"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712322863360	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712322863491	Marionette	INFO	Listening on port 60660
+WebDriver BiDi listening on ws://127.0.0.1:60645
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Read port: 60660
+1712322863753	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:60645/devtools/browser/e184a383-2148-4918-9979-793b64dc4a73
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://yopmail.com."
+1712322869084	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1712322871567	Marionette	INFO	Stopped listening on port 60660
+JavaScript warning: https://cdn.ampproject.org/rtv/012403260212000/amp4ads-v0.mjs, line 2: Script terminated by timeout at:
+wm@https://cdn.ampproject.org/rtv/012403260212000/amp4ads-v0.mjs:2:139244
+ar@https://cdn.ampproject.org/rtv/012403260212000/amp4ads-v0.mjs:2:83266
+Or/this.cr@https://cdn.ampproject.org/rtv/012403260212000/amp4ads-v0.mjs:2:83012
+Do/delay/<@https://cdn.ampproject.org/rtv/012403260212000/amp4ads-v0.mjs:2:107262
+
+Dynamically enable window occlusion 1

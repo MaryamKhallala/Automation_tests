@@ -1,0 +1,30 @@
+1712862619440	geckodriver	INFO	Listening on 127.0.0.1:60064
+1712862622522	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60065" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofileBAlgG8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712862623143	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712862623323	Marionette	INFO	Listening on port 60072
+Read port: 60072
+WebDriver BiDi listening on ws://127.0.0.1:60065
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712862623467	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:60065/devtools/browser/85060d6c-788f-40f9-8887-d469206e90ba
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L0LConaBzCc577BZGNgzP3bg87fF5vhB9-a07M4Tw6o.js line 2 > eval line 3751 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/js/rum.js?fcd=true, line 55: Script terminated by timeout at:
+ce@https://pagead2.googlesyndication.com/pagead/js/rum.js?fcd=true:55:681
+sf@https://pagead2.googlesyndication.com/pagead/js/rum.js?fcd=true:71:641
+Af@https://pagead2.googlesyndication.com/pagead/js/rum.js?fcd=true:77:60
+tf.prototype.sendBeacon@https://pagead2.googlesyndication.com/pagead/js/rum.js?fcd=true:78:48
+uf@https://pagead2.googlesyndication.com/pagead/js/rum.js?fcd=true:76:306
+tf/this.T@https://pagead2.googlesyndication.com/pagead/js/rum.js?fcd=true:74:33
+
+1712862643388	Marionette	INFO	Stopped listening on port 60072
+Dynamically enable window occlusion 1
+[GFX1-]: CompositorBrid[GFX1geChild receives IPC close with reason=Abnorma-]: CompositorB[GFridgeChild receives IPC close with reason=AbnormalShutdown
+lShutdown
+X1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+Exiting due to channel error.

@@ -1,0 +1,23 @@
+1711973976587	geckodriver	INFO	Listening on 127.0.0.1:53918
+1711973979662	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53919" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofileigdQZy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1711973980229	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711973980368	Marionette	INFO	Listening on port 53935
+Read port: 53935
+WebDriver BiDi listening on ws://127.0.0.1:53919
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1711973980455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:53919/devtools/browser/f90c845f-d050-45e3-8af8-13089dde3fd4
+1711973983441	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1711974012507	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://www.gstatic.com/recaptcha/releases/moV1mTgQ6S91nuTnmll4Y9yf/recaptcha__fr.js, line 91: Script terminated by timeout at:
+K</this.next@https://www.gstatic.com/recaptcha/releases/moV1mTgQ6S91nuTnmll4Y9yf/recaptcha__fr.js:91:382
+P@https://www.gstatic.com/recaptcha/releases/moV1mTgQ6S91nuTnmll4Y9yf/recaptcha__fr.js:399:143
+
+1711974024280	Marionette	INFO	Stopped listening on port 53935
+Dynamically enable window occlusion 1

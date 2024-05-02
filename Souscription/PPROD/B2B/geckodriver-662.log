@@ -1,0 +1,32 @@
+1713168083677	geckodriver	INFO	Listening on 127.0.0.1:49296
+1713168086783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49297" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofilePOpXvt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1713168087367	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713168087501	Marionette	INFO	Listening on port 49306
+WebDriver BiDi listening on ws://127.0.0.1:49297
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Read port: 49306
+1713168087724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:49297/devtools/browser/9f5c2046-8cb7-4d16-bcd8-29788db4d411
+JavaScript error: https://yopmail.com/fr/domain?d=some, line 1: TypeError: window.parent.Gelt is not a function
+JavaScript error: https://yopmail.com/fr/, line 1: ReferenceError: CptonKeyUp is not defined
+JavaScript error: https://yopmail.com/fr/, line 1: ReferenceError: CptonKeyUp is not defined
+JavaScript error: https://yopmail.com/fr/, line 1: ReferenceError: CptonKeyUp is not defined
+JavaScript error: https://yopmail.com/fr/, line 1: ReferenceError: CptonKeyUp is not defined
+JavaScript error: https://yopmail.com/fr/, line 1: ReferenceError: CptonKeyUp is not defined
+JavaScript error: https://yopmail.com/fr/, line 1: ReferenceError: CptonKeyUp is not defined
+JavaScript error: https://yopmail.com/fr/, line 1: ReferenceError: CptonKeyUp is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://yopmail.com."
+JavaScript error: https://yopmail.com/fr/, line 1: ReferenceError: chkl is not defined
+JavaScript error: https://yopmail.com/fr/, line 1: ReferenceError: chkl is not defined
+1713168096718	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1713168097955	Marionette	INFO	Stopped listening on port 49306
+JavaScript warning: https://yopmail.com/ver/9.2/webmail.js, line 1: Script terminated by timeout at:
+refr/nIId<@https://yopmail.com/ver/9.2/webmail.js:1:10644
+
+Dynamically enable window occlusion 1

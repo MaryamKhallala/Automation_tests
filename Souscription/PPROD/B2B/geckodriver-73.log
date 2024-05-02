@@ -1,0 +1,21 @@
+1711974674843	geckodriver	INFO	Listening on 127.0.0.1:55910
+1711974677916	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55911" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofilerujjTA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1711974678488	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711974678626	Marionette	INFO	Listening on port 55926
+Read port: 55926
+WebDriver BiDi listening on ws://127.0.0.1:55911
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1711974678747	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:55911/devtools/browser/1e65f488-fcb5-4e79-a5b3-964c9be5e7b0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://yopmail.com."
+1711974685886	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1711974708803	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1711974909301	Marionette	INFO	Stopped listening on port 55926
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function

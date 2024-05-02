@@ -1,0 +1,35 @@
+1712924402215	geckodriver	INFO	Listening on 127.0.0.1:63733
+1712924405288	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63734" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofileEXaen2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712924405962	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712924406124	Marionette	INFO	Listening on port 63745
+WebDriver BiDi listening on ws://127.0.0.1:63734
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Read port: 63745
+1712924406417	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:63734/devtools/browser/ab091b0e-24d1-4987-a66d-4423715f552d
+JavaScript error: chrome://browser/content/preferences/moreFromMozilla.js, line 83: TypeError: Region.home is null
+1712924436041	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://diac--preprod.sandbox.my.site.com/beb2b/s/sfsites/auraFW/javascript/ZDROWDdLOGtXcTZqSWZiU19ZaDJFdzk4bkk0bVJhZGJCWE9mUC1IZXZRbmcyNDguMTAuNS01LjAuMTA/aura_prod.js, line 1023: SecurityError: The operation is insecure.
+JavaScript error: https://diac--preprod.sandbox.my.site.com/beb2b/s/sfsites/auraFW/javascript/ZDROWDdLOGtXcTZqSWZiU19ZaDJFdzk4bkk0bVJhZGJCWE9mUC1IZXZRbmcyNDguMTAuNS01LjAuMTA/aura_prod.js, line 715: TypeError: a is undefined
+JavaScript error: https://diac--preprod.sandbox.my.site.com/sfsites/c/resource/MainResources/pagescripts.js?v=3, line 19: SecurityError: The operation is insecure.
+1712924534865	Marionette	INFO	Stopped listening on port 63745
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+*** You are running in background task mode. ***
+*** You are running in headless mode.
+*** You are running in background task mode. ***
+*** You are running in headless mode.
+console.error: "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofileEXaen2\\storage\\to-be-removed" "" 0 "*" ""
+console.error: "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofileEXaen2" "cache2.2024-04-12-12-22-15.purge.bg_rm" 10 ".purge.bg_rm" ""
+console.error: "started removing C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofileEXaen2\\cache2.2024-04-12-12-22-15.purge.bg_rm"
+console.error: "Deletion of folder 16ae7fd6-cfcd-4570-a800-30c3fffbe259 - success=true"
+console.error: "Deletion of folder 50fe8bf7-3d7f-4db1-a6e4-8db72b11bfad - success=true"
+console.warn: "Skipping Glean as no metrics id is passed"
+console.error: "done removing C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofileEXaen2\\cache2.2024-04-12-12-22-15.purge.bg_rm. removed 76 entries."
+console.warn: "Skipping Glean as no metrics id is passed"

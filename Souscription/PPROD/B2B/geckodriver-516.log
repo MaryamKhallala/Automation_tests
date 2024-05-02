@@ -1,0 +1,23 @@
+1712775553293	geckodriver	INFO	Listening on 127.0.0.1:62700
+1712775556393	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62701" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofilecfGtCA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712775557072	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712775557256	Marionette	INFO	Listening on port 62711
+WebDriver BiDi listening on ws://127.0.0.1:62701
+Read port: 62711
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712775557544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:62701/devtools/browser/14ba5357-5a5e-4567-ada2-1de189c067bb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://yopmail.com."
+1712775568087	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1712775571057	Marionette	INFO	Stopped listening on port 62711
+JavaScript warning: https://fundingchoicesmessages.google.com/f/AGSKWxVl8PSTZJdKwvMfyB-qKvxInvHnQqQJS6xkGSVWEEjh6o-OAkhxNhyxcqPCQRlGOkNgbXlZNP-4LuuAkCc3p5bDiL7P0AVD6fD85U6AgVQfdZSp-OIB8Xmd36lKMJsnZmP5yr-2eQ==?fccs=W251bGwsbnVsbCxudWxsLG51bGwsbnVsbCxudWxsLFsxNzEyNzc1NTcwLDM3MjAwMDAwMF0sbnVsbCxudWxsLG51bGwsW251bGwsWzddXSwiaHR0cHM6Ly95b3BtYWlsLmNvbS9mci93bSIsbnVsbCxbWzgsIkVFRHY1bGlWaVFrIl0sWzksImZyIl0sWzE4LCJbW1swXV1dIl0sWzIwLCJbbnVsbCxudWxsLFszMTA4MjI1NF0sbnVsbCwxMV0iXSxbMTksIjIiXV1d, line 7: Script terminated by timeout at:
+oo@/_/mss/boq-content-ads-contributor/_/js/k=boq-content-ads-contributor.ContributorServingResponseClientJs.fr.EEDv5liViQk.es5.O/d=1/exm=kernel_loader,loader_js_executable/ed=1/rs=AJlcJMyYR_t0pf9gI5SPWhzMEqIWhOD4YA/m=ad_blocking_detection_executable:7:1514
+oo/<@/_/mss/boq-content-ads-contributor/_/js/k=boq-content-ads-contributor.ContributorServingResponseClientJs.fr.EEDv5liViQk.es5.O/d=1/exm=kernel_loader,loader_js_executable/ed=1/rs=AJlcJMyYR_t0pf9gI5SPWhzMEqIWhOD4YA/m=ad_blocking_detection_executable:7:1630
+
+Dynamically enable window occlusion 1

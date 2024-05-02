@@ -1,0 +1,56 @@
+1711973366075	geckodriver	INFO	Listening on 127.0.0.1:53046
+1711973369200	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53047" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofileFkaYba"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1711973369734	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711973369864	Marionette	INFO	Listening on port 53056
+WebDriver BiDi listening on ws://127.0.0.1:53047
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Read port: 53056
+1711973370089	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:53047/devtools/browser/17348071-fe69-4341-84be-d74d9f28a865
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://yopmail.com."
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/m202403130101/ufs_web_display.js, line 80: Script terminated by timeout at:
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/m202403130101/ufs_web_display.js:80:126
+Cf.prototype.o@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/m202403130101/ufs_web_display.js:115:721
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/m202403130101/ufs_web_display.js:79:899
+n.sa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/m202403130101/ufs_web_display.js:103:367
+Bd.prototype.o@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/m202403130101/ufs_web_display.js:92:1366
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/m202403130101/ufs_web_display.js:79:899
+pd.prototype.o@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/m202403130101/ufs_web_display.js:90:698
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/m202403130101/ufs_web_display.js:79:899
+pd.prototype.o@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/m202403130101/ufs_web_display.js:90:698
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/m202403130101/ufs_web_display.js:79:899
+Bi/c/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/m202403130101/ufs_web_display.js:160:320
+Ua@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/m202403130101/ufs_web_display.js:47:339
+Ra.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/m202403130101/ufs_web_display.js:47:127
+Ta@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/m202403130101/ufs_web_display.js:46:466
+Bi/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/m202403130101/ufs_web_display.js:160:292
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/m202403130101/ufs_web_display.js:81:424
+n.o@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/m202403130101/ufs_web_display.js:80:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/m202403130101/ufs_web_display.js:79:899
+Bh/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/m202403130101/ufs_web_display.js:143:516
+Qa.prototype.Yb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/m202403130101/ufs_web_display.js:46:298
+Bh/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/m202403130101/ufs_web_display.js:143:525
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/m202403130101/ufs_web_display.js:81:424
+n.o@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/m202403130101/ufs_web_display.js:80:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/m202403130101/ufs_web_display.js:79:899
+Bh/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/m202403130101/ufs_web_display.js:143:516
+Qa.prototype.Yb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/m202403130101/ufs_web_display.js:46:298
+Bh/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/m202403130101/ufs_web_display.js:143:525
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/m202403130101/ufs_web_display.js:81:424
+n.o@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/m202403130101/ufs_web_display.js:80:223
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/m202403130101/ufs_web_display.js:79:899
+Td/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/m202403130101/ufs_web_display.js:98:671
+
+1711973378553	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/8IdVU_5hiTnoSVFpifzETCOPuU7V9vAnpxqXHqRkotI.js line 2 > eval line 2160 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/8IdVU_5hiTnoSVFpifzETCOPuU7V9vAnpxqXHqRkotI.js line 2 > eval line 2771 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1711973400865	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1711973437191	Marionette	INFO	Stopped listening on port 53056
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.

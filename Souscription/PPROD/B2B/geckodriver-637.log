@@ -1,0 +1,38 @@
+1712941965153	geckodriver	INFO	Listening on 127.0.0.1:59090
+1712941968221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59091" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofileclPxAm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712941968864	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712941969008	Marionette	INFO	Listening on port 59100
+WebDriver BiDi listening on ws://127.0.0.1:59091
+Read port: 59100
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712941969257	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:59091/devtools/browser/7493026d-0666-4e79-87b7-3b0f9e5ffbf4
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202404090101/slotcar_library_fy2021.js?bust=31082631, line 127: Script terminated by timeout at:
+ri/<@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202404090101/slotcar_library_fy2021.js?bust=31082631:127:389
+Ad/</<@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202404090101/slotcar_library_fy2021.js?bust=31082631:33:292
+zd@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202404090101/slotcar_library_fy2021.js?bust=31082631:33:92
+Ad/<@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202404090101/slotcar_library_fy2021.js?bust=31082631:33:281
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/L0LConaBzCc577BZGNgzP3bg87fF5vhB9-a07M4Tw6o.js line 2 > eval, line 1823: Script terminated by timeout at:
+QP/H.concat@https://pagead2.googlesyndication.com/bg/L0LConaBzCc577BZGNgzP3bg87fF5vhB9-a07M4Tw6o.js line 2 > eval:1823:5600
+v@https://pagead2.googlesyndication.com/bg/L0LConaBzCc577BZGNgzP3bg87fF5vhB9-a07M4Tw6o.js line 2 > eval:1823:19306
+Vw@https://pagead2.googlesyndication.com/bg/L0LConaBzCc577BZGNgzP3bg87fF5vhB9-a07M4Tw6o.js line 2 > eval:1823:14539
+R@https://pagead2.googlesyndication.com/bg/L0LConaBzCc577BZGNgzP3bg87fF5vhB9-a07M4Tw6o.js line 2 > eval:1823:13581
+v8/H.J_<@https://pagead2.googlesyndication.com/bg/L0LConaBzCc577BZGNgzP3bg87fF5vhB9-a07M4Tw6o.js line 2 > eval:1823:23726
+gb@https://pagead2.googlesyndication.com/bg/L0LConaBzCc577BZGNgzP3bg87fF5vhB9-a07M4Tw6o.js line 2 > eval:1823:16041
+si@https://pagead2.googlesyndication.com/bg/L0LConaBzCc577BZGNgzP3bg87fF5vhB9-a07M4Tw6o.js line 2 > eval:1823:26724
+@https://pagead2.googlesyndication.com/bg/L0LConaBzCc577BZGNgzP3bg87fF5vhB9-a07M4Tw6o.js line 2 > eval:1823:38710
+vg@https://pagead2.googlesyndication.com/bg/L0LConaBzCc577BZGNgzP3bg87fF5vhB9-a07M4Tw6o.js line 2 > eval:1823:19993
+mv@https://pagead2.googlesyndication.com/bg/L0LConaBzCc577BZGNgzP3bg87fF5vhB9-a07M4Tw6o.js line 2 > eval:1823:9022
+b@https://pagead2.googlesyndication.com/bg/L0LConaBzCc577BZGNgzP3bg87fF5vhB9-a07M4Tw6o.js line 2 > eval:1823:6066
+mv/<@https://pagead2.googlesyndication.com/bg/L0LConaBzCc577BZGNgzP3bg87fF5vhB9-a07M4Tw6o.js line 2 > eval:1823:9086
+Of</<@https://pagead2.googlesyndication.com/bg/L0LConaBzCc577BZGNgzP3bg87fF5vhB9-a07M4Tw6o.js line 2 > eval:1823:36024
+
+1712941986704	Marionette	INFO	Stopped listening on port 59100
+Dynamically enable window occlusion 1

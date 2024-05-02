@@ -1,0 +1,33 @@
+1712229537038	geckodriver	INFO	Listening on 127.0.0.1:54879
+1712229540135	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54880" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofile5BuVkz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712229540794	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712229540920	Marionette	INFO	Listening on port 54893
+WebDriver BiDi listening on ws://127.0.0.1:54880
+Read port: 54893
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712229541140	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+1712229544143	Marionette	INFO	Stopped listening on port 54893
+Dynamically enable window occlusion 1
+1712229544170	CDP	WARN	Failed to remove undefined (Could not parse path (undefined): NS_ERROR_FILE_UNRECOGNIZED_PATH)
+console.error: "Could not load engine ddg@search.mozilla.org: Error: XPIProvider can't start bootstrap scope for ddg@search.mozilla.org after shutdown was already granted"
+console.error: "Could not load engine ebay@search.mozilla.org: Error: XPIProvider can't start bootstrap scope for ebay@search.mozilla.org after shutdown was already granted"
+console.error: "Could not load engine qwant@search.mozilla.org: Error: XPIProvider can't start bootstrap scope for qwant@search.mozilla.org after shutdown was already granted"
+console.error: WebExtensions: 
+  Message: [Exception... "#init: abandoning init due to shutting down"  nsresult: "0x80004004 (NS_ERROR_ABORT)"  location: "JS frame :: resource://gre/modules/SearchService.sys.mjs :: #init :: line 1376"  data: no]
+  Stack:
+    #init@resource://gre/modules/SearchService.sys.mjs:1376:27
+
+JavaScript error: resource://gre/modules/SearchService.sys.mjs, line 1376: NS_ERROR_ABORT: #init: abandoning init due to shutting down
+JavaScript error: resource://gre/modules/SearchService.sys.mjs, line 1376: NS_ERROR_ABORT: #init: abandoning init due to shutting down
+JavaScript error: resource://gre/modules/SearchService.sys.mjs, line 1376: NS_ERROR_ABORT: #init: abandoning init due to shutting down
+JavaScript error: resource://gre/modules/SearchService.sys.mjs, line 1254: Error: SearchService failed while it was initializing.
+JavaScript error: resource://activity-stream/lib/TopSitesFeed.sys.mjs, line 134: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "SearchService failed while it was initializing." {file: "resource://gre/modules/SearchService.sys.mjs" line: 1254}]'[JavaScript Error: "SearchService failed while it was initializing." {file: "resource://gre/modules/SearchService.sys.mjs" line: 1254}]' when calling method: [nsISearchService::defaultEngine]
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.

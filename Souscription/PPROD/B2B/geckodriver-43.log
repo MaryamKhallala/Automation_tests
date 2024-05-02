@@ -1,0 +1,18 @@
+1711969276559	geckodriver	INFO	Listening on 127.0.0.1:50178
+1711969279635	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50179" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofiletl18fC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1711969280149	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1711969280276	Marionette	INFO	Listening on port 50208
+WebDriver BiDi listening on ws://127.0.0.1:50179
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Read port: 50208
+1711969280499	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:50179/devtools/browser/a7d80f64-5540-43cd-b25d-740eff236a6d
+1711969311059	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1711969340608	Marionette	INFO	Stopped listening on port 50208
+Dynamically enable window occlusion 1

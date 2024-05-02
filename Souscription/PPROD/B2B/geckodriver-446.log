@@ -1,0 +1,29 @@
+1712568636396	geckodriver	INFO	Listening on 127.0.0.1:59204
+1712568639482	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59205" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofileHJUTIn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712568640017	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712568640142	Marionette	INFO	Listening on port 59215
+WebDriver BiDi listening on ws://127.0.0.1:59205
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+Read port: 59215
+1712568640348	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+console.error: (new TypeError("NetworkError: Network request failed", "resource://services-settings/Utils.sys.mjs", 236))
+DevTools listening on ws://127.0.0.1:59205/devtools/browser/41c80b66-b094-47df-933a-11eb5f71d672
+1712568642535	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1712568645712	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1712568646365	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1712568646540	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1712568646777	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1712568646964	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1712568671140	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1712568674497	Marionette	INFO	Stopped listening on port 59215
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+console.error: (new Error("IndexedDB: main/cookie-banner-rules-list getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.sys.mjs", 16))

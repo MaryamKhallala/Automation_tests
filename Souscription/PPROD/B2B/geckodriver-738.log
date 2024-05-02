@@ -1,0 +1,20 @@
+1713265882282	geckodriver	INFO	Listening on 127.0.0.1:56769
+1713265885357	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56770" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofile6bsuDo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1713265885939	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713265886067	Marionette	INFO	Listening on port 56785
+Read port: 56785
+WebDriver BiDi listening on ws://127.0.0.1:56770
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1713265886147	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:56770/devtools/browser/e98acffe-d18a-41b4-90b3-dd788d81e600
+1713265916041	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: chrome://browser/content/preferences/moreFromMozilla.js, line 83: TypeError: Region.home is null
+1713265964901	Marionette	INFO	Stopped listening on port 56785
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function

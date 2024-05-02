@@ -1,0 +1,22 @@
+1713264655227	geckodriver	INFO	Listening on 127.0.0.1:49912
+1713264658365	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49913" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofilejzLXpG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1713264659036	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713264659207	Marionette	INFO	Listening on port 49924
+WebDriver BiDi listening on ws://127.0.0.1:49913
+[GFX1]: Potential driRead port: 49924
+ver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1713264659530	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:49913/devtools/browser/238740ee-9deb-4cc7-9d6b-1891fe00730e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://yopmail.com."
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.sys.mjs", 107))
+1713264665372	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1713264669787	Marionette	INFO	Stopped listening on port 49924
+Dynamically enable window occlusion 1

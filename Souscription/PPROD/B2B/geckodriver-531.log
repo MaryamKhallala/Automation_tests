@@ -1,0 +1,21 @@
+1712777111409	geckodriver	INFO	Listening on 127.0.0.1:49187
+1712777114420	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49188" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofile7cQXA3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712777115055	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712777115226	Marionette	INFO	Listening on port 49198
+Read port: 49198
+WebDriver BiDi listening on ws://127.0.0.1:49188
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712777115339	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:49188/devtools/browser/1b34f6f9-424a-4707-ac27-13a3009220e2
+JavaScript warning: https://diac--preprod.sandbox.my.site.com/sfsites/c/resource/MainResources/pagescripts.js?v=3, line 32: Script terminated by timeout at:
+getCookie@https://diac--preprod.sandbox.my.site.com/sfsites/c/resource/MainResources/pagescripts.js?v=3:32:13
+@https://diac--preprod.sandbox.my.site.com/sfsites/c/resource/MainResources/pagescripts.js?v=3:44:44
+
+1712777141468	Marionette	INFO	Stopped listening on port 49198
+Dynamically enable window occlusion 1

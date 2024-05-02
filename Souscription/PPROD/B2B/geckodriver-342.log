@@ -1,0 +1,29 @@
+1712321869850	geckodriver	INFO	Listening on 127.0.0.1:60968
+1712321872931	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60969" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofileAtXmQU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712321873563	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712321873712	Marionette	INFO	Listening on port 60978
+WebDriver BiDi listening on ws://127.0.0.1:60969
+Read port: 60978
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712321873942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:60969/devtools/browser/dd75e7cd-2d71-4438-a6f5-2f304988f048
+JavaScript warning: https://pagead2.googlesyndication.com/bg/APV3dACaA-z2K_GiiKi9AtRZMcv8tkt2uQCJ7vSl1g4.js line 2 > eval line 6742 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202404010101/slotcar_library_fy2021.js, line 126: Script terminated by timeout at:
+qi/<@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202404010101/slotcar_library_fy2021.js:126:389
+zd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202404010101/slotcar_library_fy2021.js:33:292
+yd@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202404010101/slotcar_library_fy2021.js:33:92
+zd/<@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202404010101/slotcar_library_fy2021.js:33:281
+
+1712321884397	Marionette	INFO	Stopped listening on port 60978
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown[
+GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.

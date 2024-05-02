@@ -1,0 +1,27 @@
+1712231093461	geckodriver	INFO	Listening on 127.0.0.1:56705
+1712231096549	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56706" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofileAK5jYX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712231097214	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712231097411	Marionette	INFO	Listening on port 56713
+WebDriver BiDi listening on ws://127.0.0.1:56706
+Read port: 56713
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712231097668	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:56706/devtools/browser/991ecb8d-9c87-4c0f-8078-cf8aec902ba8
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202404010101/slotcar_library_fy2021.js?bust=31082432, line 126: Script terminated by timeout at:
+qi/<@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202404010101/slotcar_library_fy2021.js?bust=31082432:126:389
+zd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202404010101/slotcar_library_fy2021.js?bust=31082432:33:292
+yd@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202404010101/slotcar_library_fy2021.js?bust=31082432:33:92
+zd/<@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202404010101/slotcar_library_fy2021.js?bust=31082432:33:281
+
+1712231109328	Marionette	INFO	Stopped listening on port 56713
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+[GFX1-]: CompositorBridgeChild receives IPC close with reason=AbnormalShutdown
+Exiting due to channel error.

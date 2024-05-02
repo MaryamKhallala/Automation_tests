@@ -1,0 +1,25 @@
+1712782037239	geckodriver	INFO	Listening on 127.0.0.1:58442
+1712782040282	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58443" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofileuTYgIB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712782040994	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712782041171	Marionette	INFO	Listening on port 58454
+WebDriver BiDi listening on ws://127.0.0.1:58443
+Read port: 58454
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712782041395	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:58443/devtools/browser/6ab31a15-1da7-4233-bab5-0a31a61e6051
+1712782071068	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: resource://gre/modules/shared/FormStateManager.sys.mjs, line 38: TypeError: this._activeItems is null
+JavaScript error: resource://gre/modules/shared/FormStateManager.sys.mjs, line 38: TypeError: this._activeItems is null
+JavaScript error: resource://gre/modules/shared/FormStateManager.sys.mjs, line 38: TypeError: this._activeItems is null
+JavaScript error: resource://gre/modules/shared/FormStateManager.sys.mjs, line 38: TypeError: this._activeItems is null
+JavaScript error: resource://gre/modules/shared/FormStateManager.sys.mjs, line 38: TypeError: this._activeItems is null
+JavaScript error: resource://gre/modules/shared/FormStateManager.sys.mjs, line 38: TypeError: this._activeItems is null
+1712862435842	Marionette	INFO	Stopped listening on port 58454
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function

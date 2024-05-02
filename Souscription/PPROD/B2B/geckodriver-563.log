@@ -1,0 +1,19 @@
+1712867741426	geckodriver	INFO	Listening on 127.0.0.1:61589
+1712867744456	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61590" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofile8Y2AGj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712867745124	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712867745267	Marionette	INFO	Listening on port 61623
+Read port: 61623
+WebDriver BiDi listening on ws://127.0.0.1:61590
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712867745382	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:61590/devtools/browser/038e0ce0-a7b2-4eaa-8734-67091f70ee33
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://yopmail.com."
+1712867754370	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1712867756591	Marionette	INFO	Stopped listening on port 61623
+Dynamically enable window occlusion 1

@@ -1,0 +1,27 @@
+1712232853249	geckodriver	INFO	Listening on 127.0.0.1:50024
+1712232856317	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50025" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\MARYAM~1.KHA\\AppData\\Local\\Temp\\rust_mozprofilefFtYZD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712232857358	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1712232857609	Marionette	INFO	Listening on port 50034
+WebDriver BiDi listening on ws://127.0.0.1:50025
+Read port: 50034
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd64 v= and igd10iumd64 v=
+1712232858068	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to get D3D11VideoDevice: 0x80004002
+[GFX1-]: Handling webrender error 5
+DevTools listening on ws://127.0.0.1:50025/devtools/browser/2266eb2a-3739-496f-b5e1-47445ddc335e
+JavaScript warning: https://pagead2.googlesyndication.com/bg/8IdVU_5hiTnoSVFpifzETCOPuU7V9vAnpxqXHqRkotI.js line 2 > eval line 3598 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1712232888583	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202404020101/slotcar_library_fy2021.js?bust=31082433, line 126: Script terminated by timeout at:
+qi/<@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202404020101/slotcar_library_fy2021.js?bust=31082433:126:389
+zd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202404020101/slotcar_library_fy2021.js?bust=31082433:33:292
+yd@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202404020101/slotcar_library_fy2021.js?bust=31082433:33:92
+zd/<@https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202404020101/slotcar_library_fy2021.js?bust=31082433:33:281
+
+1712232942406	Marionette	INFO	Stopped listening on port 50034
+Dynamically enable window occlusion 1
+!!! error running onStopped callback: TypeError: callback is not a function
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
