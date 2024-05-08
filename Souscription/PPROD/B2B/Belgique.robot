@@ -5,7 +5,7 @@ Library    String
 
 *** Variables ***
 ${urlEmail}   https://yopmail.com/fr/
-${browser}   edge
+${browser}   chrome
 ${element_locator}    //input[@data-input='contactEmail']
 ${ctrl_v}    \\u0076\\u0066
 
