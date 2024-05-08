@@ -8,8 +8,6 @@ ${urlEmail}   https://yopmail.com/fr/
 ${browser}   edge
 ${element_locator}    //input[@data-input='contactEmail']
 ${ctrl_v}    \\u0076\\u0066
-${company_number}    ${random_string}[0-9]{10}
-${vat_number}       ${random_string}[0-9]{10}
 
 *** Test Cases ***
 
