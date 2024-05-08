@@ -8,7 +8,7 @@ Library    random
 
 *** Variables ***
 ${urlEmail}   https://yopmail.com/fr/
-${browser}    edge
+${browser}    chrome
 ${INPUT_XPATH}   //input[@title='Raison sociale']
 ${INPUT_VALUE}    CLUB  # Replace with the actual value you wish to enter
 ${spinner_xpath}    //lightning-spinner
