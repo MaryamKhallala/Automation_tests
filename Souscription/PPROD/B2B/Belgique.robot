@@ -158,6 +158,47 @@ Recapitulation
     sleep   20
 
 
+Contrat
+    sleep  5
+    Wait Until Page Contains Element   //label[@for='disclosureAccepted']  timeout=20
+    Click Element   //label[@for='disclosureAccepted']
+    sleep  5
+    Wait Until Page Contains Element   (//button[contains(@class,'btn btn-main')])[3]   timeout=20
+    Click Element   (//button[contains(@class,'btn btn-main')])[3]
+    sleep  5
+
+    #sig1
+    Wait Until Page Contains Element   (//div[contains(@class,'signature-tab-content tab-button-yellow')])[1]   timeout=20
+    Click Element     (//div[contains(@class,'signature-tab-content tab-button-yellow')])[1]
+    sleep  5
+
+    Wait Until Page Contains Element   (//button[contains(@class,'btn btn-lg')])[3]   timeout=20
+    Click Element  (//button[contains(@class,'btn btn-lg')])[3]
+    sleep  10
+    #2
+    Wait Until Page Contains Element   (//div[contains(@class,'signature-tab-content tab-button-yellow')])[2]   timeout=20
+    Click Element     (//div[contains(@class,'signature-tab-content tab-button-yellow')])[2]
+    sleep  5
+    #3
+    Wait Until Page Contains Element   (//div[contains(@class,'signature-tab-content tab-button-yellow')])[3]   timeout=20
+    Click Element     (//div[contains(@class,'signature-tab-content tab-button-yellow')])[3]
+    sleep  5
+    #4
+    Wait Until Page Contains Element   (//div[contains(@class,'signature-tab-content tab-button-yellow')])[4]   timeout=20
+    Click Element     (//div[contains(@class,'signature-tab-content tab-button-yellow')])[4]
+
+    sleep  5
+    #5
+    Wait Until Page Contains Element   (//div[contains(@class,'signature-tab-content tab-button-yellow')])[5]   timeout=20
+    Click Element     (//div[contains(@class,'signature-tab-content tab-button-yellow')])[5]
+    sleep  5
+
+    Wait Until Page Contains Element  (//button[contains(@class,'documents-finish-button btn')])[1]   timeout=20
+    Click Element     (//button[contains(@class,'documents-finish-button btn')])[1]
+    sleep  5
+
+    sleep  60
+
 
 
 *** Keywords ***
