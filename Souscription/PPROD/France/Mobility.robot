@@ -47,7 +47,7 @@ Cordonnee
     Wait Until Element Is Visible   //input[@inputmode='text']    timeout=20
     Input Text    //input[@inputmode='text']   CLUB
 
-    sleep  3
+    Sleep    3
     ${index}=    Evaluate    random.randint(0, ${valid_postal_codes.__len__()} - 1)
     ${postal_code}=    Set Variable    ${valid_postal_codes}[${index}]
     Wait Until Element Is Visible       //input[@inputmode='numeric']  timeout=20
