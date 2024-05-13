@@ -14,9 +14,7 @@ ${ctrl_v}    \\u0076\\u0066
 
 Vehicules
     Open Browser    ${urlEmail}   ${browser}
-    sleep     5
-    wait_until_page_contains_element  //button[@class='fc-button fc-cta-consent fc-primary-button']
-    Click Element    //button[@class='fc-button fc-cta-consent fc-primary-button']
+   
     Maximize Browser Window
     ${random_letters}=    Generate Random String    8    [LETTERS]
     wait_until_page_contains_element  //input[@id='login']
