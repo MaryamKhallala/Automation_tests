@@ -14,8 +14,7 @@ ${ctrl_v}    \\u0076\\u0066
 
 Vehicules
     Open Browser    ${urlEmail}   ${browser}
-   
-    Maximize Browser Window
+     Maximize Browser Window
     ${random_letters}=    Generate Random String    8    [LETTERS]
     wait_until_page_contains_element  //input[@id='login']
     Input Text     //input[@id='login']    ${random_letters}
