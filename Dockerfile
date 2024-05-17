@@ -21,7 +21,6 @@ RUN unzip chromedriver-win64.zip
 
 # Set environment variable for chromedriver (optional)
 ENV CHROMEDRIVER_PATH=/app/chromedriver.exe  
-# Adjust path if extracted filename differs
 
 # Expose port for web application (if applicable)
 EXPOSE 8000  # Replace with your application's port
