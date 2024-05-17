@@ -4,7 +4,7 @@ FROM python:3.10-slim
 WORKDIR /app
 
 # Copy requirements.txt and application files
-COPY requirements.txt .
+COPY requirements.txt 
 COPY . .  # Copy all other application files
 
 # Install dependencies using pip
