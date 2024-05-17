@@ -1,4 +1,4 @@
-﻿attrs==23.2.0
+attrs==23.2.0
 captcha-solver==0.1.5
 certifi==2024.2.2
 cffi==1.16.0
@@ -10,9 +10,9 @@ pillow==10.3.0
 pycparser==2.21
 pyperclip==1.8.2
 PySocks==1.7.1
-pywin32==306
+
 robotframework==7.0
-robotframework-autoitlibrary==1.2.8
+
 robotframework-pythonlibcore==4.4.0
 robotframework-seleniumlibrary==6.2.0
 selenium==4.19.0
