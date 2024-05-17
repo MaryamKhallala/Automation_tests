@@ -9,6 +9,7 @@ COPY . .
 # Copy all other application files
 
 # Install dependencies using pip
+RUN pip install --upgrade pip
 RUN pip install -r requirement.txt
 
 # Set working directory for Robot Framework tests
