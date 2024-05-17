@@ -4,11 +4,12 @@ FROM python:3.10-slim
 WORKDIR /app
 
 # Copy requirements.txt and application files
-COPY requirements.txt 
-COPY . .  # Copy all other application files
+COPY requirement.txt .
+COPY . .  
+# Copy all other application files
 
 # Install dependencies using pip
-RUN pip install -r requirements.txt
+RUN pip install -r requirement.txt
 
 # Set working directory for Robot Framework tests
 WORKDIR /app/Souscription/PPROD/B2B
