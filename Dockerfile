@@ -1,26 +1,21 @@
-# Base image (choose an appropriate Python version)
+# Utiliser une image Python de base pour Windows
 FROM python:3.10-slim
 
+# Définir le répertoire de travail
 WORKDIR /app
 
-# Copy requirements.txt and application files
+# Copier les fichiers de dépendances et d'application
 COPY requirement.txt .
-COPY . .  
-# Copy all other application files
+COPY . .
 
-# Install dependencies using pip
-RUN pip install --upgrade pip
+# Installer les dépendances via pip
 RUN pip install -r requirement.txt
 
-# Set working directory for Robot Framework tests
-WORKDIR /app/Souscription/PPROD/B2B
+RUN set PATH "C:\Users\maryam.khallala\Downloads\chromedriver-win64.zip\chromedriver-win64\chromedriver.exe;%PATH%"
 
-# Set environment variable for chromedriver (optional)
-ENV CHROMEDRIVER_PATH=C:\Users\maryam.khallala\Downloads\chromedriver-win64.zip\chromedriver.exe  
+# Définir la commande pour exécuter les tests Robot Framework
+CMD ["robot", "Souscription/PPROD/B2B/Belgique.robot"]
 
-# Expose port for web application (if applicable)
-EXPOSE 8000  
-# Replace with your application s port
 
-# Command to execute when container starts (replace with your application s entry point)
-CMD ["robot", "Belgique.robot"]
+
+
