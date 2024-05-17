@@ -23,7 +23,8 @@ RUN unzip chromedriver-win64.zip
 ENV CHROMEDRIVER_PATH=/app/chromedriver.exe  
 
 # Expose port for web application (if applicable)
-EXPOSE 8000  # Replace with your application's port
+EXPOSE 8000  
+# Replace with your application s port
 
-# Command to execute when container starts (replace with your application's entry point)
+# Command to execute when container starts (replace with your application s entry point)
 CMD ["robot", "Belgique.robot"]
