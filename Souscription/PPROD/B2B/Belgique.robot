@@ -161,6 +161,38 @@ Recapitulation
     Click Element        //button[@class='m-btn m-btn--hollow']
     sleep   20
 
+Contrat
+    sleep  5
+    Wait Until Page Contains Element   //label[@for='disclosureAccepted']  timeout=20
+    Click Element   //label[@for='disclosureAccepted']
+    sleep  5
+    Wait Until Page Contains Element   (//button[contains(@class,'btn btn-main')])[1]   timeout=20
+    Click Element   (//button[contains(@class,'btn btn-main')])[1]
+    sleep  5
+
+    Wait Until Page Contains Element   (//button[@class='menu_item'])[1]   timeout=20
+    Click Element   (//button[@class='menu_item'])[1]
+    sleep  5
+
+    Wait Until Page Contains Element    (//div[@class='page-tabs'])[2]  timeout=20
+    Click Element  (//div[@class='page-tabs'])[2]
+    sleep  5
+
+    Wait Until Page Contains Element   (//button[contains(@class,'btn btn-lg')])[4]   timeout=20
+    Click Element   (//button[contains(@class,'btn btn-lg')])[4]
+    sleep  5
+    Wait Until Page Contains Element   (//button[contains(@class,'documents-finish-button btn')])[1]  timeout=20
+    Click Element  (//button[contains(@class,'documents-finish-button btn')])[1]
+    sleep  5
+
+    Wait Until Page Contains Element   //div[@class='form-group content']  timeout=20
+    Click Element  //div[@class='form-group content']
+    sleep  5
+    Wait Until Page Contains Element    //button[@class='btn btn-main']   timeout=20
+    Click Element   //button[@class='btn btn-main']
+
+
+    sleep  60
 
 
 
