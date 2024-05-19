@@ -11,11 +11,9 @@ COPY . .
 # Installer les dépendances via pip
 RUN pip install -r requirement.txt
 
-RUN set PATH "C:\Users\maryam.khallala\Downloads\chromedriver-win64.zip\chromedriver-win64\chromedriver.exe;%PATH%"
+# Set environment variable for ChromeDriver path
+RUN mv chromedriver.exe C:\chromedriver
+ENV CHROMEDRIVER_PATH=C:\chromedriver\chromedriver.exe
 
-# Définir la commande pour exécuter les tests Robot Framework
+# Define Robot Framework command
 CMD ["robot", "Souscription/PPROD/B2B/Belgique.robot"]
-
-
-
-
