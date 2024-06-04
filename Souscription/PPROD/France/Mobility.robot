@@ -8,7 +8,7 @@ Library    random
 
 *** Variables ***
 ${urlEmail}   https://yopmail.com/fr/
-${browser}    chrome
+${browser}    edge
 ${INPUT_XPATH}   //input[@title='Raison sociale']
 ${INPUT_VALUE}    CLUB  # Replace with the actual value you wish to enter
 ${spinner_xpath}    //lightning-spinner
@@ -19,6 +19,10 @@ ${spinner_xpath}    //lightning-spinner
 Email
     Open Browser    ${urlEmail}   ${browser}
     Maximize Browser Window
+    sleep  3
+    wait_until_page_contains_element  (//p[@class='fc-button-label'])[1]
+    Click Element  (//p[@class='fc-button-label'])[1]
+    sleep  3
     ${random_letters}=    Generate Random String    8    [LETTERS]
     wait_until_page_contains_element  //input[@id='login']
     Input Text     //input[@id='login']    ${random_letters}
